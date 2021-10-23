@@ -1,0 +1,18 @@
+body {
+    background-color: #F9F3DF;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #D9CAB3;
+    border-width: 6px;
+    width: 7%;
+}
+h1,h3 {
+    color: #6D9886;
+}
+
+button:hover {
+    background-color: aqua;
+    font-family: Consolas;
+}
